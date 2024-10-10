@@ -9,15 +9,15 @@ Este projeto tem como objetivo modelar a relação entre anos de experiência pr
 ## Análise e Resultados
 
 ### Regressão Linear
-Foi realizada uma análise de regressão linear simples para modelar a relação entre as variáveis 'anos de experiência' e 'salário'. Os resultados obtidos indicam que [resumo dos resultados da regressão, como coeficiente de determinação (R²), p-valor, etc.].
+Foi realizada uma análise de regressão linear simples para modelar a relação entre as variáveis 'anos de experiência' e 'salário'.
 
 ### Visualização dos Resultados
 * **Gráfico de Dispersão:**
   <img src="disperssao.png">
-    [Incluir o scatter plot mostrando a relação entre as variáveis]
+    
 * **Gráfico de Dispersão com Reta de Regressão:**
     <img src="regressao.png">
-    [Incluir o scatter plot com a reta de regressão ajustada]
+    
 
 ## Modelo Preditivo
 O modelo de regressão linear gerado permite realizar previsões de salário com base em um determinado número de anos de experiência.
